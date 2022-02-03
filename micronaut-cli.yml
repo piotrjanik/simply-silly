@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.piotrjanik
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [ annotation-api, app-name, asciidoctor, config-kubernetes, dekorate-kubernetes, discovery-kubernetes, github-workflow-google-cloud-run, graalvm, gradle, hamcrest, http-client, jackson-databind, java, java-application, jib, junit, kubernetes, log4j2, lombok, management, micrometer, micrometer-prometheus, micronaut-build, netty-server, openapi, readme, serialization-jackson, shade, yaml ]

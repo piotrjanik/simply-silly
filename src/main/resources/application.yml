@@ -1,0 +1,12 @@
+netty:
+  default:
+    allocator:
+      max-order: 3
+micronaut:
+  metrics:
+    enabled: true
+    export:
+      prometheus:
+        enabled: true
+        descriptions: true
+        step: PT1M
